@@ -1,0 +1,31 @@
+{
+  "name": "illumut",
+  "version": "1.0.0",
+  "description": "Plugin for JS logger loglevel which allows enable/disable debug output dynamically",
+  "main": "index.js",
+  "directories": {
+    "example": "example",
+    "test": "test"
+  },
+  "dependencies": {
+    "loglevel": "^1.4.0"
+  },
+  "devDependencies": {
+    "browserify": "^13.0.1",
+    "mocha": "^2.4.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NashKilback/illumut.git"
+  },
+  "keywords": [
+    "loglevel",
+    "ipsum",
+    "loglevel-debug"
+  ],
+  "author": "LauryShields",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NashKilback/illumut.git/issues"
+  }
+}
